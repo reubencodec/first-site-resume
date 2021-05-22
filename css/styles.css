@@ -1,0 +1,68 @@
+body {
+  width: 70%;
+  background: #dddddd;
+  margin: 0 auto;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  border-spacing: 5px;
+  width: 7%;
+}
+
+h4{
+  color: #396362;
+}
+
+button:hover {
+  background: white;
+  color: grey;
+  border: 0;
+  font-size: inherit;
+}
+
+h1 {
+  color: #02475e;
+  text-align: center;
+}
+
+h3 {
+  color: #396362;
+  text-align: center;
+}
+
+img {
+  float: left;
+  max-width: 50%;
+  height: auto;
+}
+
+p {
+  color: #373640;
+  text-align: left;
+}
+
+table {
+  margin: 0 20px
+}
+
+td {
+  padding: 0 0 0 20px;
+  text-align: left;
+}
+
+th {
+  padding: 10px;
+  text-align:left;
+}
+
+th {
+  text-align: left;
+}
+
+em {
+  text-align: center;
+}
